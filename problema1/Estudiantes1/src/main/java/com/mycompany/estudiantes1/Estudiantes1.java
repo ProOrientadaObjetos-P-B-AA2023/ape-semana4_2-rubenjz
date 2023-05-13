@@ -73,8 +73,6 @@ class Estudiante {
     
     public String toString() {
         String msj = String.format("PROMEDIO ESTUDIANTE"
-                
-                
                 + "\nNombre Estudiante: %s"
                 + "\nNota 1: %.2f"
                 + "\nNota 2: %.2f"
